@@ -1,0 +1,6 @@
+{
+  "name": "Harbor View Dental",
+  "description": "Premium dental clinic website with online appointment booking and secure admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
